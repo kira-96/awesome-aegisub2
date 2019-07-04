@@ -6,10 +6,6 @@
 
 分享最好能以**链接**的形式给出，最好是博客或者论坛的链接。资源文件请上传至网盘分享。
 
-格式如：
-
-* 关于xxxx用法的教程 [链接](www.sample-url.xx)  - 分享自群友xxx
-
 ---
 
 ## 目录
@@ -37,6 +33,7 @@
 ## 工具&插件
 
 * 小丸工具箱 [官网](https://maruko.appinn.me/)
+* VSFilterMod雷鸣菊苣修改版 [发布地址](https://nmm-hd.org/newbbs/viewtopic.php?f=17&t=1989) [github](https://github.com/sorayuki/VSFilterMod/)
 
 ## 教程
 
@@ -51,6 +48,14 @@
 ## 特效分享
 
 ## 其它
+
+### 字体系列
+
+[思源黑体](https://github.com/adobe-fonts/source-han-sans) (开源)
+
+[思源宋体](https://github.com/adobe-fonts/source-han-serif) (开源)
+
+
 
 ---
 
