@@ -28,7 +28,7 @@
 
 * 官方文档 [链接](http://docs.aegisub.org/3.2/Main_Page/) **建议先了解[ASS Tags](http://docs.aegisub.org/3.2/ASS_Tags/)**
 
-* 中文文档 [链接](https://aegi.vmoe.info/docs/3.2/ASS_Tags/) **[ASS 标签](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)**
+* 中文文档 [链接](https://aegi.vmoe.info/docs/3.2/Main_Page/) **[ASS 标签](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)**
 
 ## 工具&插件
 
@@ -39,6 +39,7 @@
 
 * VCB-Studio教程专栏 (压制相关) [链接](https://vcb-s.nmm-hd.org/)
 * NMM文档(压制相关) [链接](https://nmm-hd.org/doc/)
+* Kara Effector 3.5 工具和使用教程（西班牙语+中文手册） [github](https://github.com/mxfuture/Kara-Effector-3.5)  (下载解压)
 
 ## 经验分享
 
@@ -54,8 +55,6 @@
 [思源黑体](https://github.com/adobe-fonts/source-han-sans) (开源)
 
 [思源宋体](https://github.com/adobe-fonts/source-han-serif) (开源)
-
-
 
 ---
 
