@@ -26,6 +26,8 @@
 
 ## 入门指南
 
+* [安装说明](docs/installation.md) [待补充]
+
 * 官方文档 [链接](http://docs.aegisub.org/3.2/Main_Page/) **建议先了解[ASS Tags](http://docs.aegisub.org/3.2/ASS_Tags/)**
 
 * 中文文档 [链接](https://aegi.vmoe.info/docs/3.2/Main_Page/) **[ASS 标签](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)**
@@ -59,3 +61,5 @@
 ---
 
 PS: 项目刚刚起步，还没个logo:sob:，群里哪位大佬帮忙设计一个呗:kissing_heart:。
+
+
