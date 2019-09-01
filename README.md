@@ -1,5 +1,4 @@
 <h1 align=center>Awesome-Aegisub2</h1>
-
 ## 说明
 
 本项目仅用于收集各位群友分享的资源、经验以及一些特效，意在方便各位新人快速上手，也方便各位群友查找备忘，希望能够帮到群里的每一个人。大佬们请多多分享。
@@ -42,11 +41,13 @@
 * VCB-Studio教程专栏 (压制相关) [链接](https://vcb-s.nmm-hd.org/)
 * NMM文档(压制相关) [链接](https://nmm-hd.org/doc/)
 * Kara Effector 3.5 工具和使用教程（西班牙语+中文手册） [github](https://github.com/mxfuture/Kara-Effector-3.5)  (下载解压)
+* 零基础学Aegisub自动化合辑 [bilibili](https://www.bilibili.com/video/av65337916) [百度云](https://pan.baidu.com/s/1_hP8lYZ5_B36FX2vpDRCog) (3gps) [微云](https://share.weiyun.com/5DYZNrA) (r8gtml) - By ErgoProxy文森特
 
 ## 经验分享
 
 - 新人OPED中日字体样式推荐 [链接](http://www.tcax.org/forum.php?mod=viewthread&tid=1948)  - 分享自群友 Seekladoom
 - 分享一下自己在字幕方面的相关经验（含特效） [链接](http://bbs.vcb-s.com/forum.php?mod=viewthread&tid=4170)  - 分享自群友 Seekladoom
+- 分享一下抽取mkv内封字幕以及多源备份外挂字幕的一些经验（含特效） [链接](http://bbs.vcb-s.com/forum.php?mod=viewthread&tid=4547)  - 分享自群友 Seekladoom
 
 ## 特效分享
 
