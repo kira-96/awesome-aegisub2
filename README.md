@@ -59,6 +59,10 @@
 
 [思源宋体](https://github.com/adobe-fonts/source-han-serif) (开源)
 
+[华康简繁日字体匹配](https://subhd.tv/ar0/495060)  - 分享自群友 Seekladoom
+
+[思源字体 中日匹配](https://github.com/Seekladoom/Source-Han-Japanese-Chinese-Fonts-adaptation)   - 分享自群友 Seekladoom
+
 ---
 
 PS: 项目刚刚起步，还没个logo:sob:，群里哪位大佬帮忙设计一个呗:kissing_heart:。
