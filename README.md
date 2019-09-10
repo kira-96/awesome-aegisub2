@@ -1,4 +1,11 @@
 <h1 align=center>Awesome-Aegisub2</h1>
+
+[![GitHub issues](https://img.shields.io/github/issues/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/network)
+[![GitHub stars](https://img.shields.io/github/stars/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/blob/master/LICENSE)
+[![Join us](https://img.shields.io/badge/Q群-加入我们-orange?style=flat&labelColor=33a3dc&color=f05b72&logoColor=fcaf17&logo=Tencent QQ)](https://jq.qq.com/?_wv=1027&k=5tOhBn3)
+
 ## 说明
 
 本项目仅用于收集各位群友分享的资源、经验以及一些特效，意在方便各位新人快速上手，也方便各位群友查找备忘，希望能够帮到群里的每一个人。大佬们请多多分享。
