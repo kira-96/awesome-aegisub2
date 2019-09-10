@@ -1,4 +1,5 @@
-<h1 align=center>Awesome-Aegisub2</h1>  
+<h1 align=center>Awesome-Aegisub2</h1>
+
 [![GitHub issues](https://img.shields.io/github/issues/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/issues)
 [![GitHub forks](https://img.shields.io/github/forks/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/network)
 [![GitHub stars](https://img.shields.io/github/stars/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/stargazers)
