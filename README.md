@@ -1,5 +1,4 @@
-<h1 align=center>Awesome-Aegisub2</h1>
-
+<h1 align=center>Awesome-Aegisub2</h1>  
 [![GitHub issues](https://img.shields.io/github/issues/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/issues)
 [![GitHub forks](https://img.shields.io/github/forks/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/network)
 [![GitHub stars](https://img.shields.io/github/stars/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/stargazers)
@@ -52,7 +51,6 @@
 
 ## 经验分享
 
-- 新人OPED中日字体样式推荐 [链接](http://www.tcax.org/forum.php?mod=viewthread&tid=1948)  - 分享自群友 Seekladoom
 - 分享一下自己在字幕方面的相关经验（含特效） [链接](http://bbs.vcb-s.com/forum.php?mod=viewthread&tid=4170)  - 分享自群友 Seekladoom
 - 分享一下抽取mkv内封字幕以及多源备份外挂字幕的一些经验（含特效） [链接](http://bbs.vcb-s.com/forum.php?mod=viewthread&tid=4547)  - 分享自群友 Seekladoom
 
@@ -62,13 +60,15 @@
 
 ### 字体系列
 
-[思源黑体](https://github.com/adobe-fonts/source-han-sans) (开源)
+* [思源黑体](https://github.com/adobe-fonts/source-han-sans) (开源)
 
-[思源宋体](https://github.com/adobe-fonts/source-han-serif) (开源)
+* [思源宋体](https://github.com/adobe-fonts/source-han-serif) (开源)
 
-[华康简繁日字体匹配](https://subhd.tv/ar0/495060)  - 分享自群友 Seekladoom
+* 新人OPED中日字体样式推荐 [链接](http://www.tcax.org/forum.php?mod=viewthread&tid=1948)  - 分享自群友 Seekladoom
 
-[思源字体 中日匹配](https://github.com/Seekladoom/Source-Han-Japanese-Chinese-Fonts-adaptation)   - 分享自群友 Seekladoom
+* 华康简繁日字体匹配 [链接](https://subhd.tv/ar0/495060)  - 分享自群友 Seekladoom
+
+* 思源字体 中日匹配 [链接](https://github.com/Seekladoom/Source-Han-Japanese-Chinese-Fonts-adaptation)   - 分享自群友 Seekladoom
 
 ---
 
