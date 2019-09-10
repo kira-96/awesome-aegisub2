@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/network)
 [![GitHub stars](https://img.shields.io/github/stars/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/stargazers)
 [![GitHub license](https://img.shields.io/github/license/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/blob/master/LICENSE)
-[![Join us](https://img.shields.io/badge/Q群-加入我们-orange?style=flat&labelColor=33a3dc&color=f05b72&logoColor=fcaf17&logo=Tencent QQ)](https://jq.qq.com/?_wv=1027&k=5tOhBn3)
+[![Join us](https://img.shields.io/badge/Q群-加入我们-f05b72?style=flat&labelColor=33a3dc&logoColor=fcaf17&logo=Tencent-QQ)](https://jq.qq.com/?_wv=1027&k=5tOhBn3)
 
 ## 说明
 
