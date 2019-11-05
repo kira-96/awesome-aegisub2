@@ -34,6 +34,8 @@
 
 * [安装说明](docs/installation.md) [待补充]
 
+* 一个非官方维护的Aegisub版本 [链接](https://github.com/wangqr/Aegisub)
+
 * 官方文档 [链接](http://docs.aegisub.org/3.2/Main_Page/) **建议先了解[ASS Tags](http://docs.aegisub.org/3.2/ASS_Tags/)**
 
 * 中文文档 [链接](https://aegi.vmoe.info/docs/3.2/Main_Page/) **[ASS 标签](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)**
@@ -72,8 +74,10 @@
 
 * 思源字体 中日匹配 [链接](https://github.com/Seekladoom/Source-Han-Japanese-Chinese-Fonts-adaptation)   - 分享自群友 Seekladoom
 
+* 日本三大厂圆黑宋楷仿 中日字体匹配 [链接](https://github.com/Seekladoom/Japanese-Three-Company-MaruGothic-Gothic-Mincho-Kaisho-Socho-Fonts-adaptation)   - 分享自群友 Seekladoom
+
+* Fontworks大字面圆黑宋 中日字体匹配 [链接](https://github.com/Seekladoom/FW-BIG-Typeface-MaruGothic-Gothic-Mincho-Fonts-adaptation)   - 分享自群友 Seekladoom
+
 ---
 
 PS: 项目刚刚起步，还没个logo:sob:，群里哪位大佬帮忙设计一个呗:kissing_heart:。
-
-
