@@ -1,5 +1,4 @@
 <h1 align=center>Awesome-Aegisub2</h1>
-
 [![GitHub issues](https://img.shields.io/github/issues/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/issues)
 [![GitHub forks](https://img.shields.io/github/forks/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/network)
 [![GitHub stars](https://img.shields.io/github/stars/kira-96/awesome-aegisub2)](https://github.com/kira-96/awesome-aegisub2/stargazers)
@@ -52,6 +51,7 @@
 * Kara Effector 3.5 工具和使用教程（西班牙语+中文手册） [github](https://github.com/mxfuture/Kara-Effector-3.5)  (下载解压)
 * 零基础学Aegisub自动化合辑 [bilibili](https://www.bilibili.com/video/av65337916) [百度云](https://pan.baidu.com/s/1_hP8lYZ5_B36FX2vpDRCog) (3gps) [微云](https://share.weiyun.com/5DYZNrA) (r8gtml) - by ErgoProxy文森特
 * Aegisub系列教程 [基础](https://space.bilibili.com/104942310/channel/detail?cid=70721) [自动化](https://space.bilibili.com/104942310/channel/detail?cid=70722) [进阶](https://space.bilibili.com/104942310/channel/detail?cid=73062) [番外](https://space.bilibili.com/104942310/channel/detail?cid=70720) [百度云](https://pan.baidu.com/s/1jLUuhJq81A6dqzVqpw2wfw) (wd8k) - by [虎皮安踏传媒](https://space.bilibili.com/104942310)
+* Aegisub K值视频教程 [百度云](https://pan.baidu.com/s/1FyQDV9FG8P3RPL9DuM1ayw) (ye0s) - by Seekladoom
 
 ## 经验分享
 
