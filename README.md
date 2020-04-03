@@ -33,8 +33,6 @@
 
 * [安装说明](docs/installation.md) [待补充]
 
-* 一个非官方维护的Aegisub版本 [链接](https://github.com/wangqr/Aegisub)
-
 * 官方文档 [链接](http://docs.aegisub.org/3.2/Main_Page/) **建议先了解[ASS Tags](http://docs.aegisub.org/3.2/ASS_Tags/)**
 
 * 中文文档 [链接](https://aegi.vmoe.info/docs/3.2/Main_Page/) **[ASS 标签](https://aegi.vmoe.info/docs/3.2/ASS_Tags/)**
@@ -42,18 +40,19 @@
 ## 工具&插件
 
 * 小丸工具箱 [官网](https://maruko.appinn.me/)
+* 一个非官方维护的Aegisub版本 [链接](https://github.com/wangqr/Aegisub)
 * VSFilterMod雷鸣菊苣修改版 [发布地址](https://nmm-hd.org/newbbs/viewtopic.php?f=17&t=1989) [github](https://github.com/sorayuki/VSFilterMod/)
 
 ## 教程
 
 * VCB-Studio教程专栏 (压制相关) [链接](https://vcb-s.nmm-hd.org/)
 * NMM文档(压制相关) [链接](https://nmm-hd.org/doc/)
-* [TCAX 论坛](http://tcax.org/)
+* TCAX论坛(特效相关) [链接](http://tcax.org/)
 * Kara Effector 3.5 工具和使用教程（西班牙语+中文手册） [github](https://github.com/mxfuture/Kara-Effector-3.5)  (下载解压)
 * 零基础学Aegisub自动化合辑 [bilibili](https://www.bilibili.com/video/av65337916) [百度云](https://pan.baidu.com/s/1_hP8lYZ5_B36FX2vpDRCog) (3gps) [微云](https://share.weiyun.com/5DYZNrA) (r8gtml) - by ErgoProxy文森特
 * Aegisub系列教程 [基础](https://space.bilibili.com/104942310/channel/detail?cid=70721) [自动化](https://space.bilibili.com/104942310/channel/detail?cid=70722) [进阶](https://space.bilibili.com/104942310/channel/detail?cid=73062) [番外](https://space.bilibili.com/104942310/channel/detail?cid=70720) [百度云](https://pan.baidu.com/s/1jLUuhJq81A6dqzVqpw2wfw) (wd8k) - by [虎皮安踏传媒](https://space.bilibili.com/104942310)
 * Aegisub K值视频教程 [百度云](https://pan.baidu.com/s/1FyQDV9FG8P3RPL9DuM1ayw) (ye0s) - by Seekladoom
-* Aegisub自动化特效必学部分 - Lua math库[TCAX](http://www.tcax.org/forum.php?mod=viewthread&tid=1963)
+* Aegisub自动化特效必学部分 - Lua math库 [TCAX](http://www.tcax.org/forum.php?mod=viewthread&tid=1963)
 
 ## 经验分享
 
