@@ -40,6 +40,7 @@
 ## 工具&插件
 
 * 小丸工具箱 [官网](https://maruko.appinn.me/)
+* ShanaEncoder [下载地址](https://bbs.itzmx.com/thread-7413-1-1.html)
 * 一个非官方维护的Aegisub版本 [链接](https://github.com/wangqr/Aegisub)
 * VSFilterMod雷鸣菊苣修改版 [发布地址](https://nmm-hd.org/newbbs/viewtopic.php?f=17&t=1989) [github](https://github.com/sorayuki/VSFilterMod/)
 
